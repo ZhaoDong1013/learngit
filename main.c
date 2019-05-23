@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("learn git second");
+	printf("learn git third");
 
 	return 1;
 }
